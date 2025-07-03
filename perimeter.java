@@ -1,4 +1,3 @@
-package Shubham.javaproject;
 
 public class perimeter {
 	static double Perimeter_c(int r)
