@@ -1,7 +1,5 @@
 //program to declare class with a data,roll no ,name,marks and diff constructors
 
-package Shubham.javaproject;
-
 public class Student {
 	int rollno;
 	String name;
@@ -18,8 +16,8 @@ void display()
     System.out.println( "Name of Student is "+ name);
     System.out.println("Marks of the Student "+marks+" percentage");}
 	public static void main(String[] args) {
-		Student s1=new Student(10,"Shubham", 99);
-		Student s2=new Student(2,"Sudarshan",98);
+		Student s1=new Student(68,"Pallavi", 99);
+		Student s2=new Student(71,"Priya",98);
 		s1.display();
 		s2.display();
 	}
