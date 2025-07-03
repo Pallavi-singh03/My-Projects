@@ -12,8 +12,8 @@ public class DefaultParameter {
   public static void main(String args[]) {
       DefaultParameter myStudent = new DefaultParameter();
       
-      myStudent.firstName = "shubham";
-      myStudent.lastName = "kadu";
+      myStudent.firstName = "Pallavi";
+      myStudent.lastName = "Singh";
       myStudent.age = 21;
       
       System.out.println("Age is "+myStudent.age);
