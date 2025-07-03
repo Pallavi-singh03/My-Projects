@@ -1,5 +1,4 @@
 //Program to accept number from user and calculate the factorial of given number
-package Shubham.javaproject;
 import java.util.*;
 public class Factorial {
 
