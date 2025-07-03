@@ -1,5 +1,4 @@
 //Program for method overloading allowing developer to create multiple method overloading but eith different parameter
-package Shubham.javaproject;
 public class MethodOverloading {
 public static int sum(int a,int b) {
 		int c= a+b;
