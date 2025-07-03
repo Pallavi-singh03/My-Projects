@@ -1,6 +1,4 @@
 //Program to Show Inheritance 
-//Div A 10
-package Shubham.javaproject;
 import java.util.*;
 public class Inheritance {
     static class employee {
