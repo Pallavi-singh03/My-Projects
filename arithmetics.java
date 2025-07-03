@@ -1,5 +1,4 @@
 //write a program for Arithmatic operations using arithmatic promotion.
-package Shubham.javaproject;
 import java.util.*;
 public class arithmetics {
 
