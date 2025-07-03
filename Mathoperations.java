@@ -1,7 +1,5 @@
 //To perform a program for math calculation like max method, min method,roundup method 
 //and absolute method using math classes
-
-package Shubham.javaproject;
 import java.util.*;
 public class Mathoperations {
  static int max(int a, int b) {
