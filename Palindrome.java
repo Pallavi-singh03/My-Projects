@@ -1,6 +1,5 @@
    
 //Program  accept number from user and check whether the number is prime or not
-package Shubham.javaproject;
 import java.util.*;
 public class Palindrome {
 
