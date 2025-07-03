@@ -3,7 +3,6 @@
 //Program to accept number from user and calculate the factorial of given number
 //program to accept number from user and check whether the number is palindrome or not
 //Program  accept number from user and check whether the number is prime or not
-package Shubham.javaproject;
 import java.util.*;
 public class ControllStatements {
 	public static void main(String[] args) {
