@@ -1,5 +1,4 @@
-package Shubham.javaproject;
-
+import java.util.*;
 public class libinheritance {
 
 }
