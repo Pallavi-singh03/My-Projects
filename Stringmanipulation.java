@@ -4,7 +4,6 @@
 //3.Equality
 //4.Concatenation
 //5.Substring
-package Shubham.javaproject;
 import java.util.*;
 public class Stringmanipulation {
   
