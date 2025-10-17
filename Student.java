@@ -13,9 +13,9 @@ void display()
 {
 	System.out.println("Details of Student");
 	System.out.println("Roll no  :- " + rollno);
-    System.out.println( "Name of Student is "+ name);
-    System.out.println("Marks of the Student "+marks+" percentage");}
-	public static void main(String[] args) {
+    System.out.println( "Name of Student is:- "+ name);
+    System.out.println("Marks of the Student " + marks+" percentage");}
+	public static void main(String[] args) { 
 		Student s1=new Student(68,"Pallavi", 99);
 		Student s2=new Student(71,"Priya",98);
 		s1.display();
@@ -23,3 +23,4 @@ void display()
 	}
 
 }
+
